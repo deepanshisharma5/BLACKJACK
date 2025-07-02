@@ -1,4 +1,4 @@
-#project-26
+#project
 #black jack
 
 print('''
